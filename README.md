@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![cover](https://github.com/jiantaos/jr-fronted2/blob/master/Screenshot%202022-07-02%20230811.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
